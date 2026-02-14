@@ -1,3 +1,30 @@
 # ChatApp
 
 A real-time chat application built using Flutter and Firebase, designed to demonstrate scalable mobile architecture, authentication handling, and cloud-based data synchronization.
+
+✨ Features
+
+🔐 User Authentication (Email & Password)
+
+💬 Real-time messaging using Cloud Firestore
+
+👤 User profile management
+
+🔔 Instant message updates
+
+📱 Responsive UI built with Flutter
+
+☁️ Firebase backend integration
+
+
+🛠 Tech Stack
+
+Flutter – UI Development
+
+Dart – Programming Language
+
+Firebase Authentication – User management
+
+Cloud Firestore – Real-time database
+
+Firebase Storage – Media handling (if used)
